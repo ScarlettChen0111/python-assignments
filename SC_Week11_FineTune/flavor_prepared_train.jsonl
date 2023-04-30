@@ -1,0 +1,184 @@
+{"prompt":"vegetable ->","completion":" vegetable"}
+{"prompt":"coffee ->","completion":" bitter"}
+{"prompt":"bacon ->","completion":" meaty"}
+{"prompt":"seashell ->","completion":" salty, fishy"}
+{"prompt":"beef ->","completion":" meaty"}
+{"prompt":"smoky ->","completion":" smoky"}
+{"prompt":"blossom ->","completion":" floral"}
+{"prompt":"seaside ->","completion":" salty, fresh"}
+{"prompt":"orange ->","completion":" citrus"}
+{"prompt":"lemon peel ->","completion":" puckery, sour"}
+{"prompt":"vinegar ->","completion":" sour"}
+{"prompt":"berry ->","completion":" fruity"}
+{"prompt":"fishy ->","completion":" fishy"}
+{"prompt":"roasted meat ->","completion":" meaty"}
+{"prompt":"wax ->","completion":" waxy"}
+{"prompt":"meaty ->","completion":" meaty"}
+{"prompt":"mossy ->","completion":" mossy"}
+{"prompt":"bread ->","completion":" lactose, soft"}
+{"prompt":"wine ->","completion":" alcohol"}
+{"prompt":"rum ->","completion":" alcohol"}
+{"prompt":"green pepper ->","completion":" vegetable"}
+{"prompt":"peanut butter ->","completion":" lactose, nutty"}
+{"prompt":"spearmint ->","completion":" herbaceous, fresh"}
+{"prompt":"roasted peanut ->","completion":" nutty"}
+{"prompt":"lemon ->","completion":" citrus"}
+{"prompt":"bergamot ->","completion":" bitter, sour"}
+{"prompt":"mushroom ->","completion":" earthy"}
+{"prompt":"geranium ->","completion":" floral"}
+{"prompt":"grapefruit ->","completion":" fruity"}
+{"prompt":"dried berry ->","completion":" sweet, sour, dry"}
+{"prompt":"shellfish ->","completion":" fishy"}
+{"prompt":"cinnamon ->","completion":" balsamic"}
+{"prompt":"hyacinth ->","completion":" floral"}
+{"prompt":"caramel ->","completion":" balsamic"}
+{"prompt":"beer ->","completion":" alcohol"}
+{"prompt":"lemongrass ->","completion":" fresh"}
+{"prompt":"passion fruit ->","completion":" sour, sweet"}
+{"prompt":"iris ->","completion":" floral"}
+{"prompt":"dairy ->","completion":" lactose"}
+{"prompt":"mint ->","completion":" herbaceous"}
+{"prompt":"feta cheese ->","completion":" lactose"}
+{"prompt":"plastic ->","completion":" chemical"}
+{"prompt":"milky ->","completion":" lactose"}
+{"prompt":"cotton candy ->","completion":" lactose, soft"}
+{"prompt":"herbal ->","completion":" herbaceous"}
+{"prompt":"herbaceous ->","completion":" herbaceous"}
+{"prompt":"nut ->","completion":" nutty"}
+{"prompt":"cheese ->","completion":" fatty"}
+{"prompt":"pepper ->","completion":" pepper"}
+{"prompt":"cooked vegetable ->","completion":" soft"}
+{"prompt":"pineapple ->","completion":" fruity"}
+{"prompt":"hawthorne ->","completion":" floral"}
+{"prompt":"leafy ->","completion":" green"}
+{"prompt":"cucumber ->","completion":" vegetable"}
+{"prompt":"dried raspberry ->","completion":" sweet, sour, dry"}
+{"prompt":"fish ->","completion":" fishy"}
+{"prompt":"tobacco ->","completion":" tobacco"}
+{"prompt":"hot milk ->","completion":" lactose"}
+{"prompt":"buttery ->","completion":" fatty, lactose"}
+{"prompt":"blackcurrant ->","completion":" sour, sweet"}
+{"prompt":"cognac ->","completion":" alcohol"}
+{"prompt":"sage ->","completion":" herbaceous"}
+{"prompt":"shrimp ->","completion":" fishy"}
+{"prompt":"balsam ->","completion":" balsamic"}
+{"prompt":"jam ->","completion":" fruity"}
+{"prompt":"brandy ->","completion":" alcohol"}
+{"prompt":"oily ->","completion":" fatty"}
+{"prompt":"cooked potato ->","completion":" soft"}
+{"prompt":"crab ->","completion":" fishy"}
+{"prompt":"apple juice ->","completion":" sour, sweet"}
+{"prompt":"cherry ->","completion":" fruity"}
+{"prompt":"honey ->","completion":" balsamic"}
+{"prompt":"melon ->","completion":" citrus"}
+{"prompt":"salmon ->","completion":" fishy"}
+{"prompt":"coconut ->","completion":" fruity"}
+{"prompt":"milk ->","completion":" lactose"}
+{"prompt":"seashore ->","completion":" salty, fresh"}
+{"prompt":"meat broth ->","completion":" meaty"}
+{"prompt":"bread crust ->","completion":" crisp"}
+{"prompt":"banana peel ->","completion":" puckery"}
+{"prompt":"buttered ->","completion":" fatty"}
+{"prompt":"boiled vegetable ->","completion":" soft"}
+{"prompt":"camphoraceous ->","completion":" camphoraceous"}
+{"prompt":"wintergreen ->","completion":" green"}
+{"prompt":"hop_oil ->","completion":" fatty"}
+{"prompt":"orange peel ->","completion":" puckery, sour, bitter"}
+{"prompt":"cedar ->","completion":" woody"}
+{"prompt":"maple ->","completion":" woody"}
+{"prompt":"rose ->","completion":" floral"}
+{"prompt":"cranberry ->","completion":" fruity"}
+{"prompt":"cake ->","completion":" sweet, soft, lactose"}
+{"prompt":"floral ->","completion":" floral"}
+{"prompt":"mesquite ->","completion":" woody"}
+{"prompt":"creamy ->","completion":" fatty"}
+{"prompt":"meat ->","completion":" meaty"}
+{"prompt":"blue cheese ->","completion":" lactose"}
+{"prompt":"tart ->","completion":" fruity"}
+{"prompt":"potato ->","completion":" vegetable"}
+{"prompt":"parsley ->","completion":" herbaceous"}
+{"prompt":"alcohol ->","completion":" chemical"}
+{"prompt":"animal ->","completion":" animal"}
+{"prompt":"cream ->","completion":" lactose"}
+{"prompt":"caraway ->","completion":" herbaceous"}
+{"prompt":"garlic ->","completion":" spicy"}
+{"prompt":"herb ->","completion":" herbaceous"}
+{"prompt":"medicinal ->","completion":" medicinal"}
+{"prompt":"pear skin ->","completion":" puckery, sweet"}
+{"prompt":"fat ->","completion":" fatty"}
+{"prompt":"dried fruit ->","completion":" swet"}
+{"prompt":"peanut ->","completion":" nutty"}
+{"prompt":"oil ->","completion":" fatty"}
+{"prompt":"fruity ->","completion":" fruity"}
+{"prompt":"buttermilk ->","completion":" fatty, lactose"}
+{"prompt":"roasted peanuts ->","completion":" nutty"}
+{"prompt":"citrus ->","completion":" citrus"}
+{"prompt":"bitter almond ->","completion":" bitter, nutty"}
+{"prompt":"sweet ->","completion":" balsamic"}
+{"prompt":"rosemary ->","completion":" herbaceous"}
+{"prompt":"burnt sugar ->","completion":" sweet"}
+{"prompt":"banana ->","completion":" fruity"}
+{"prompt":"whiskey ->","completion":" alcohol"}
+{"prompt":"wood ->","completion":" woody"}
+{"prompt":"apple peel ->","completion":" puckery"}
+{"prompt":"blueberry ->","completion":" sour, sweet"}
+{"prompt":"metal ->","completion":" metallic"}
+{"prompt":"walnut ->","completion":" nutty"}
+{"prompt":"wasabi ->","completion":" spicy"}
+{"prompt":"others ->","completion":" balsamic"}
+{"prompt":"apple ->","completion":" fruity"}
+{"prompt":"lavender ->","completion":" floral"}
+{"prompt":"brown sugar ->","completion":" sweet"}
+{"prompt":"pear ->","completion":" fruity"}
+{"prompt":"clam ->","completion":" fishy"}
+{"prompt":"lettuce ->","completion":" crisp"}
+{"prompt":"strawberry ->","completion":" fruity"}
+{"prompt":"quince ->","completion":" fruity"}
+{"prompt":"cookies ->","completion":" sweet, crisp"}
+{"prompt":"roasted almonds ->","completion":" nutty"}
+{"prompt":"cocoa ->","completion":" chocolaty, bitter"}
+{"prompt":"cantaloupe ->","completion":" fruity"}
+{"prompt":"musky ->","completion":" musky"}
+{"prompt":"cacao ->","completion":" chocolaty, bitter"}
+{"prompt":"leaf ->","completion":" puckery"}
+{"prompt":"blackberry ->","completion":" sour, sweet"}
+{"prompt":"popcorn ->","completion":" lactose, crisp"}
+{"prompt":"roasted nut ->","completion":" nutty"}
+{"prompt":"custard ->","completion":" lactose"}
+{"prompt":"cabbage ->","completion":" vegetable"}
+{"prompt":"vanilla ->","completion":" balsamic"}
+{"prompt":"cardboard ->","completion":" puckery"}
+{"prompt":"fig ->","completion":" sweet, fresh"}
+{"prompt":"raspberry ->","completion":" fruity"}
+{"prompt":"candy ->","completion":" sweet"}
+{"prompt":"minty ->","completion":" minty"}
+{"prompt":"spicy ->","completion":" spicy"}
+{"prompt":"anise ->","completion":" balsamic"}
+{"prompt":"grass ->","completion":" puckery"}
+{"prompt":"cereal ->","completion":" sweet, crisp"}
+{"prompt":"marigold ->","completion":" floral"}
+{"prompt":"sugar ->","completion":" sweet"}
+{"prompt":"roasted in sugar syrup ->","completion":" sweet"}
+{"prompt":"thyme ->","completion":" herbaceous"}
+{"prompt":"carrot ->","completion":" crisp"}
+{"prompt":"cultured dairy ->","completion":" lactose"}
+{"prompt":"butter ->","completion":" fatty"}
+{"prompt":"apple skin ->","completion":" puckery, sour"}
+{"prompt":"hazelnut ->","completion":" nutty"}
+{"prompt":"fatty ->","completion":" fatty"}
+{"prompt":"date ->","completion":" sweet"}
+{"prompt":"sour ->","completion":" fatty"}
+{"prompt":"sulfurous ->","completion":" chemical"}
+{"prompt":"egg ->","completion":" soft"}
+{"prompt":"apricot ->","completion":" fruity"}
+{"prompt":"banana skin ->","completion":" puckery"}
+{"prompt":"chocolate ->","completion":" balsamic"}
+{"prompt":"seedy ->","completion":" seedy"}
+{"prompt":"mango ->","completion":" fruity"}
+{"prompt":"beeswax ->","completion":" waxy"}
+{"prompt":"peppermint ->","completion":" herbaceous, fresh"}
+{"prompt":"cotton ->","completion":" soft"}
+{"prompt":"soap ->","completion":" soapy"}
+{"prompt":"marshmallow ->","completion":" sweet, soft"}
+{"prompt":"seafood ->","completion":" salty, fishy"}
+{"prompt":"violet ->","completion":" floral"}

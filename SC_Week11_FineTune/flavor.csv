@@ -1,0 +1,232 @@
+prompt,completion
+alcohol,chemical
+almond,nutty
+animal,animal
+anise,balsamic
+apple,fruity
+apple juice,"sour, sweet"
+apple peel,puckery
+apple skin,"puckery, sour"
+apricot,fruity
+bacon,meaty
+balsam,balsamic
+banana,fruity
+banana peel,puckery
+banana skin,puckery
+basil,herbaceous
+beef,meaty
+beer,alcohol
+beeswax,waxy
+bergamot,"bitter, sour"
+berry,fruity
+biscuit,crisp
+bitter,bitter
+bitter almond,"bitter, nutty"
+blackberry,"sour, sweet"
+blackcurrant,"sour, sweet"
+blossom,floral
+blue cheese,lactose
+blueberry,"sour, sweet"
+boiled vegetable,soft
+brandy,alcohol
+bread,"lactose, soft"
+bread crust,crisp
+brown sugar,sweet
+burnt sugar,sweet
+butter,fatty
+buttered,fatty
+buttermilk,"fatty, lactose"
+butterscotch,balsamic
+buttery,"fatty, lactose"
+cabbage,vegetable
+cacao,"chocolaty, bitter"
+cake,"sweet, soft, lactose"
+camphoraceous,camphoraceous
+candy,sweet
+cantaloupe,fruity
+caramel,balsamic
+caraway,herbaceous
+cardboard,puckery
+carnation,floral
+carrot,crisp
+cashew,nutty
+cedar,woody
+celery,vegetable
+celery,vegetable
+cereal,"sweet, crisp"
+chamomile,herbaceous
+cheese,fatty
+cherry,fruity
+chicken,meaty
+chip,crisp
+chocolate,balsamic
+cinnamon,balsamic
+citrus,citrus
+clam,fishy
+clove,herbaceous
+cocoa,"chocolaty, bitter"
+coconut,fruity
+coffee,bitter
+cognac,alcohol
+cooked potato,soft
+cooked vegetable,soft
+cookies,"sweet, crisp"
+corn,vegetable
+cotton,soft
+cotton candy,"lactose, soft"
+coumarin,spicy
+crab,fishy
+cranberry,fruity
+cream,lactose
+creamy,fatty
+cucumber,vegetable
+cultured dairy,lactose
+custard,lactose
+dairy,lactose
+date,sweet
+dried berry,"sweet, sour, dry"
+dried fruit,swet
+dried raspberry,"sweet, sour, dry"
+durian,"sweet, soft"
+earthy,earthy
+egg,soft
+fat,fatty
+fatty,fatty
+fennel,herbaceous
+feta cheese,lactose
+fig,"sweet, fresh"
+fish,fishy
+fishy,fishy
+floral,floral
+fruity,fruity
+gardenia,floral
+garlic,spicy
+geranium,floral
+ginger,"spicy, fresh"
+grape,fruity
+grapefruit,fruity
+grass,puckery
+green,green
+green bean,vegetable
+green pepper,vegetable
+hawthorne,floral
+hazelnut,nutty
+herb,herbaceous
+herbaceous,herbaceous
+herbal,herbaceous
+honey,balsamic
+hop_oil,fatty
+horseradish,vegetable
+hot milk,lactose
+hyacinth,floral
+iris,floral
+jam,fruity
+jasmine,floral
+lavender,floral
+leaf,puckery
+leafy,green
+lemon,citrus
+lemon peel,"puckery, sour"
+lemongrass,fresh
+lettuce,crisp
+lily,floral
+lime,citrus
+mango,fruity
+maple,woody
+marigold,floral
+marshmallow,"sweet, soft"
+meat,meaty
+meat broth,meaty
+meaty,meaty
+medicinal,medicinal
+melon,citrus
+mesquite,woody
+metal,metallic
+milk,lactose
+milky,lactose
+mint,herbaceous
+minty,minty
+mossy,mossy
+mushroom,earthy
+musky,musky
+musty,earthy
+nut,nutty
+nutty,nutty
+oil,fatty
+oily,fatty
+orange,citrus
+orange peel,"puckery, sour, bitter"
+others,balsamic
+papaya,fruity
+parsley,herbaceous
+passion fruit,"sour, sweet"
+peach,fruity
+peanut,nutty
+peanut butter,"lactose, nutty"
+pear,fruity
+pear skin,"puckery, sweet"
+pepper,pepper
+peppermint,"herbaceous, fresh"
+pineapple,fruity
+plastic,chemical
+plum,fruity
+popcorn,"lactose, crisp"
+potato,vegetable
+quince,fruity
+raspberry,fruity
+roast beef,meaty
+roasted almonds,nutty
+roasted in sugar syrup,sweet
+roasted meat,meaty
+roasted nut,nutty
+roasted nuts,nutty
+roasted peanut,nutty
+roasted peanuts,nutty
+rose,floral
+rosemary,herbaceous
+rum,alcohol
+sage,herbaceous
+salmon,fishy
+salt,salty
+sausage,"salty, meaty"
+scallion,fishy
+sea,salty
+sea breeze,"salty, fresh"
+seafood,"salty, fishy"
+seashell,"salty, fishy"
+seashore,"salty, fresh"
+seaside,"salty, fresh"
+seedy,seedy
+shellfish,fishy
+shrimp,fishy
+smoky,smoky
+soap,soapy
+soapy,soapy
+soil,earthy
+sour,fatty
+spearmint,"herbaceous, fresh"
+spicy,spicy
+strawberry,fruity
+sugar,sweet
+sulfurous,chemical
+sweet,balsamic
+tangerine,"sour, sweet"
+tart,fruity
+thyme,herbaceous
+tobacco,tobacco
+tomato,vegetable
+tropica,fruity
+vanilla,balsamic
+vegetable,vegetable
+vinegar,sour
+violet,floral
+walnut,nutty
+wasabi,spicy
+watermelon,fruity
+wax,waxy
+whiskey,alcohol
+wine,alcohol
+wine_like,alcohol
+wintergreen,green
+wood,woody
+woody,woody
